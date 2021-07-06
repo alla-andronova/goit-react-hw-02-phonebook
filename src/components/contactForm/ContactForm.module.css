@@ -15,6 +15,7 @@
   margin-top: 15px;
   border: none;
   border-bottom: 2px solid lightcoral;
+  outline: none;
 }
 .btn {
   width: 25%;
